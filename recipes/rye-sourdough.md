@@ -15,7 +15,7 @@
 
 * 100g Rye Flour (type 1150)
 * 100g Warm Water
-* 1 teaspoon of starter (from the fridge)
+* 1 teaspoon of [Rye starter](./rye-sourdough-starter.md) (from the fridge)
 
 
 
