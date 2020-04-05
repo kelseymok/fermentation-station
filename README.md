@@ -16,7 +16,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 
 Remember when embarking on your fermentation journey that you're dealing with live organisms and sometimes you grow dangerous mold instead of good bacteria. When in doubt throw it out. If it looks red, green, orange, blue, and fuzzy, definitely throw it out. 
 
-Check out the [/r/fermentation](https://www.reddit.com/r/fermentation/search?q=is it mold&restrict_sr=1) subreddit for mold examples.
+Check out the [/r/fermentation](https://www.reddit.com/r/fermentation/search?q=is%20it%20mold&restrict_sr=1) subreddit for mold examples.
 
 Sometimes it's Kahm's Yeast (and that's fine to eat). Sometimes your ferments get cloudy because of all of the yeast in your ferment (also ok to eat).
 
