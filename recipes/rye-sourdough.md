@@ -1,5 +1,7 @@
 # Rye Sourdough
 
+Bread should contain the least amount of ingredients possible. Of course embellishments such as carrots, seeds, and nuts are welcome, but I'm referring to all of those preservatives and emulsifiers. You should only need flour, water, and salt.
+
 
 
 ## Materials
@@ -38,7 +40,7 @@ If it hasn't doubled in size overnight, it might be the result of a slower sourd
 
 * 300g Rye Flour (type 1150)
 * 300g Wheat Flour (type 550)
-* ~480g Warm Water (I never measure this, but I aim for about 90% hydration and a super wet dough)
+* ~480g Warm Water (I never measure this, but I aim for about 90% hydration and a super wet dough). Check out [Bakers Percentages](https://www.kingarthurflour.com/pro/reference/bakers-percentage). I think my bread wavers somewhere between 85-90%.
 * 1.5 teaspoons of salt
 
 ### Instructions
