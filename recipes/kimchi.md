@@ -8,7 +8,7 @@ The base recipe is from [Kitchn](https://www.thekitchn.com/how-to-make-easy-kimc
 
 * 1 medium Napa Cabbage (Chinakohl, in Germany)
 
-* 2% of the weight of the cabbage in salt
+* 2% of the weight of the cabbage in salt (unrefined salt, without iodine. Sea Salt or Himalayan salt works)
 
 * 1 Carrot
 
