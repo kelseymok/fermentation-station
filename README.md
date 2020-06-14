@@ -5,10 +5,11 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 
 
 * [Rye Sourdough Starter](./recipes/rye-sourdough-starter.md)
-* [Rye Sourdough](./recipes/rye-sourdough.md)
+* [Rye Sourdough Bread](./recipes/rye-sourdough.md)
 * [Kimchi](./recipes/kimchi.md)
 * [Sauerkraut](./recipes/sauerkraut)
 * [Honey Garlic](./recipes/honey-garlic.md)
+* [Kombucha](./recipes/kombucha.md)
 
 
 

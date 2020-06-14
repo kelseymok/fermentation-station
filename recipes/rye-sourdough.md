@@ -1,4 +1,4 @@
-# Rye Sourdough
+# Rye Sourdough Bread
 
 Bread should contain the least amount of ingredients possible. Of course embellishments such as carrots, seeds, and nuts are welcome, but I'm referring to all of those preservatives and emulsifiers. You should only need flour, water, and salt.
 
