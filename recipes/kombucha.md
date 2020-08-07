@@ -11,10 +11,22 @@ Source: [Seeds Of Health](http://www.seedsofhealth.co.uk/fermenting/kombucha_how
 ### Ingredients
 
 * 1L of water
-* 4 teaspoons of Black tea
-* 80g sugar
+* 2 teaspoons of Black tea
+* 70g sugar
 * 100ml Kombucha starter
 * 1 Kombucha pellicle/SCOBY (optional, but it helps with more sure acidification)
+
+
+
+Other proportions, for your convenience:
+
+| Water | Sugar |
+| ----- | ----- |
+| 1 L   | 70g   |
+| 3/4 L | 52.5g |
+| 1/2 L | 35g   |
+
+
 
 ### Instructions
 
