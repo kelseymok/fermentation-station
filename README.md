@@ -10,6 +10,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Sauerkraut](./recipes/sauerkraut)
 * [Honey Garlic](./recipes/honey-garlic.md)
 * [Kombucha](./recipes/kombucha.md)
+* [Blueberry Mead](./recipes/blueberry-mead.md)
 
 
 
