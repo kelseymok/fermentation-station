@@ -2,7 +2,10 @@
 
 ## Materials
 
-* 1.5L jar (I use a round Fido jar with a swingtop lid) or a fermentation crock
+* 1.5L jar 
+  * I like the [1.5L Cylinder Jars by Weck](http://www.shop-weck.de/epages/64573964.sf/de_DE/?ObjectPath=/Shops/64573964/Products/1138) 
+  * Fido jars with a swingtop lid from IKEA also work
+  * [Fermentation Crocks rock](https://www.amazon.de/-/en/dp/B00UTQZD48/?coliid=I2C4GYFOJ3BWXL&colid=Y3TPR145CS2&psc=1&ref_=lv_ov_lig_dp_it)
 * [Fermentation weights]([https://www.amazon.de/dp/B07LFZ6W8N/ref=sr_1_1?crid=3LU6HLX23ATW8&dchild=1&keywords=g%C3%A4rgewichte&qid=1586102790&sprefix=endgame%2Caps%2C281&sr=8-1](https://www.amazon.de/dp/B07LFZ6W8N/ref=sr_1_1?crid=3LU6HLX23ATW8&dchild=1&keywords=gärgewichte&qid=1586102790&sprefix=endgame%2Caps%2C281&sr=8-1))
 
 ## Ingredients
@@ -24,4 +27,4 @@
 
 This can be a powerful ferment. Don't forget to burp your jar every morning and evening. In the early days, it will smell like sulfur (if you don't have a dog to blame, this is your opportunity!). Additionally, don't use jars with flat sides because these don't distribute pressure as well as round jars (you run the risk of creating glass bombs in your kitchen).
 
-People seem to have made sauerkraut without salt or with very little salt. That kind of scares me and I've always had luck with 2% salt. You can try with less, but that's your stomach. :)
+People seem to have made sauerkraut without salt or with very little salt. I'm not willing to risk that and I've always had luck with 2% salt. You can try with less, but that's your stomach. :)
