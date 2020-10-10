@@ -12,7 +12,7 @@
 
 ## Ingredients
 
-* 150g Rice
+* 150g Uncooked Rice (I've used Basmati and Jasmine)
 * Water
 * 200g Koji Rice
 
