@@ -44,6 +44,10 @@ The base recipe is from [Kitchn](https://www.thekitchn.com/how-to-make-easy-kimc
 
 
 
+## Notes
+
+* If you smell your Kimchi about 1 day into fermentation, it might smell awful, like sulfur. This is normal for cabbage apparently. It should smell delightful by the 3rd day.
+
 ## References
 
 * Maangchi is the internet expert in Korean cooking. Check out her [easy Kimchi](https://www.maangchi.com/recipe/easy-kimchi) and [traditional Kimchi](https://www.maangchi.com/recipe/tongbaechu-kimchi) recipes

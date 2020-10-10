@@ -27,4 +27,4 @@
 
 This can be a powerful ferment. Don't forget to burp your jar every morning and evening. In the early days, it will smell like sulfur (if you don't have a dog to blame, this is your opportunity!). Additionally, don't use jars with flat sides because these don't distribute pressure as well as round jars (you run the risk of creating glass bombs in your kitchen).
 
-People seem to have made sauerkraut without salt or with very little salt. I'm not willing to risk that and I've always had luck with 2% salt. You can try with less, but that's your stomach. :)
+People seem to have made sauerkraut without salt or with very little salt. I'm not willing to risk that and I've always had luck with 2% salt.

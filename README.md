@@ -11,12 +11,17 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Honey Garlic](./recipes/honey-garlic.md)
 * [Kombucha](./recipes/kombucha.md)
 * [Blueberry Mead](./recipes/blueberry-mead.md)
+* [Koji](./recipes/koji)
+* [Sake](./recipes/sake)
+* [Miso](./recipes/miso)
+* [Amazake](./recipes/amazake)
+* [Shio-Koji](./recipes/shio-koji)
 
 
 
 ## Is it mold?
 
-Remember when embarking on your fermentation journey that you're dealing with live organisms and sometimes you grow dangerous mold instead of good bacteria. When in doubt throw it out. If it looks red, green, orange, blue, and fuzzy, definitely throw it out. 
+Remember when embarking on your fermentation journey that you're dealing with live organisms and sometimes you grow dangerous mold instead of good bacteria. When in doubt throw it out. If it looks red, green, orange, blue, and fuzzy, definitely throw it out.  Trust your nose. Your ferments should smell delightful.
 
 Check out the [/r/fermentation](https://www.reddit.com/r/fermentation/search?q=is%20it%20mold&restrict_sr=1) subreddit for mold examples.
 

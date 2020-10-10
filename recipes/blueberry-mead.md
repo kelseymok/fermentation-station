@@ -8,7 +8,7 @@
 
 ## Equipment
 * Wine bubble with airlock
-* Vodka for the airlock
+* ~1 tbsp Vodka for the airlock
 
 ## Method
 1. Mix 1kg honey with 2L warm water (I typically put water into a pot and warm it -- it should NOT be boiling)
