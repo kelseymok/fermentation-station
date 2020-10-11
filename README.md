@@ -12,12 +12,13 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Honey Garlic](./recipes/honey-garlic.md)
 * [Kombucha](./recipes/kombucha.md)
 * [Blueberry Mead](./recipes/blueberry-mead.md)
-* [Koji](./recipes/koji)
-* [Sake](./recipes/sake)
-* [Miso](./recipes/miso)
-* [Amazake](./recipes/amazake)
-* [Shio-Koji](./recipes/shio-koji)
+* [Koji](./recipes/koj.mdi)
+* [Sake](./recipes/sake.md)
+* [Miso](./recipes/miso.md)
+* [Amazake](./recipes/amazake.md)
+* [Shio-Koji](./recipes/shio-koji.md)
 * [Natto](./recipes/natto.md)
+* [Tempeh](./recipes/tempeh)
 
 
 
