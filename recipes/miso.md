@@ -39,7 +39,7 @@ The following chart contains the dry to hydrated weight ratios that I've experim
 
 | Dried Soybeans | Hydrated Soybeans |
 | -------------- | ----------------- |
-| 200g           | ??                |
+| 200g           | 430               |
 
 ### How to hydrate
 

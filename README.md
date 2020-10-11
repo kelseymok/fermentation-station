@@ -17,6 +17,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Miso](./recipes/miso)
 * [Amazake](./recipes/amazake)
 * [Shio-Koji](./recipes/shio-koji)
+* [Natto](./recipes/natto.md)
 
 
 

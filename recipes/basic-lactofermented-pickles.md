@@ -14,7 +14,7 @@
 * [Vegetables (sliced or whole)](#variations)
 * Water
 * [Unrefined sea salt](#salt)
-* Bay leaf (adds tannins to keep the vegetables crunchy. Grape leaves also work.)
+* Bay leaf (adds tannins to keep the vegetables crunchy -- grape leaves also work)
 * Spices
 
 
@@ -44,8 +44,11 @@ Certain types of salt can inhibit fermentation, for example: salt with iodine. M
 
 ### Variations
 
-* Cucumbers with chilis
+* Cucumbers with hot pepper flakes
 * Cucumbers with dill, mustard seeds, and garlic 
+* Green string beans with dill mustard seeds, and garlic
+* Sliced purple/red onion
 * White asparagus (unpeeled) with a couple slices of lemon
 * Cauliflower, paprika (sweet peppers), carrots
 * Basically any vegetable scraps at any given time
+* Jalepeños, Kiwifuit, garlic, sweet green pepper (brine = 4-5% salt)
