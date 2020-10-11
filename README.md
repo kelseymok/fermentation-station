@@ -4,6 +4,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 
 
 
+* [Basic Lactofermented Pickles](./recipes/basic-lactofermented-pickles.md)
 * [Rye Sourdough Starter](./recipes/rye-sourdough-starter.md)
 * [Rye Sourdough Bread](./recipes/rye-sourdough.md)
 * [Kimchi](./recipes/kimchi.md)
