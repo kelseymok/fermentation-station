@@ -16,9 +16,11 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Sake](./recipes/sake.md)
 * [Miso](./recipes/miso.md)
 * [Amazake](./recipes/amazake.md)
+* [Oat Amazake](./recipes/oat-amazake.md)
 * [Shio-Koji](./recipes/shio-koji.md)
 * [Natto](./recipes/natto.md)
 * [Tempeh](./recipes/tempeh)
+* [Lactofermented Hot Sauce](./recipes/lactofermented-hot-sauce)
 
 
 
