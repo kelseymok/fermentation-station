@@ -45,7 +45,7 @@
 
 
 
-## Smooth Hot Sauce (and dried fermented chili flakes)
+### Smooth Hot Sauce (and dried fermented chili flakes)
 
 1. Follow the directions of [Chunky Hot Sauce](#chunky-hot-sauce)
 2. Strain the hot sauce using a fine mesh sieve (use a spatula to scrape the bottom occasionally to keep the drainage)
