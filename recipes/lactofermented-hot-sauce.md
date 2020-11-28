@@ -4,7 +4,7 @@
 
 ## References
 
-* [Firey Ferments](https://www.amazon.de/-/en/Kirsten-K-Shockey/dp/1612127282)
+* [Fiery Ferments](https://www.amazon.de/-/en/Kirsten-K-Shockey/dp/1612127282)
 * [Brad "It's Alive"](https://www.youtube.com/watch?v=UGjCeAbWKPo)
 * [/r/FermentedHotSauce SubReddit](https://www.reddit.com/r/FermentedHotSauce/) - Great for combinations (and "is it mold?")
 
