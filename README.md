@@ -21,6 +21,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Natto](./recipes/natto.md)
 * [Tempeh](./recipes/tempeh.md)
 * [Lactofermented Hot Sauce](./recipes/lactofermented-hot-sauce.md)
+* [Beet Kvass](./recipes/beet-kvass.md)
 
 
 
