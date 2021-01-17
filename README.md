@@ -22,6 +22,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Tempeh](./recipes/tempeh.md)
 * [Lactofermented Hot Sauce](./recipes/lactofermented-hot-sauce.md)
 * [Beet Kvass](./recipes/beet-kvass.md)
+* [Country Wine](./recipes/country-wine.md)
 
 
 
