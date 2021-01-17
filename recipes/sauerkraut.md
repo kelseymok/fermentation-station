@@ -21,10 +21,11 @@
 3. Add salt and massage for about 20 minutes. The cabbage should shrink and should create plenty of brine.
 4. Add caraway seeds
 5. Pack into jar, push the cabbage under the resulting brine. Place the fermentation weights on top of the cabbage to keep it under the brine. NOTE: it can be helpful to reserve one or two large leaves to rest on top of the sliced cabbage to help keep the flyaways under control.
-6. Let sit on a shelf for 6 weeks, in a dark place (or place a towel over the jar). Check daily that the cabbage is fully covered under brine.
+6. Let sit in a room temperature shelf for 4 weeks. Burp jar daily for roughly the first 2 weeks until bubbles stop forming. Once the bubbles stop forming, the burping can stop, leave sealed to reduce oxygen in glass unless opening to push cabbage under the brine.
+7. After 4 weeks, place in a cool dark space for another 2 weeks. The jar should remain sealed, the cabbage might peak above the brine but this is ok.
 
 ## Note
 
-This can be a powerful ferment. Don't forget to burp your jar every morning and evening. In the early days, it will smell like sulfur (if you don't have a dog to blame, this is your opportunity!). Additionally, don't use jars with flat sides because these don't distribute pressure as well as round jars (you run the risk of creating glass bombs in your kitchen).
+This can be a powerful ferment. Don't forget to burp your jar every morning and evening for the first two weeks. In the early days, it will smell like sulfur (if you don't have a dog to blame, this is your opportunity!). Additionally, don't use jars with flat sides because these don't distribute pressure as well as round jars (you run the risk of creating glass bombs in your kitchen).
 
 People seem to have made sauerkraut without salt or with very little salt. I'm not willing to risk that and I've always had luck with 2% salt.
