@@ -25,6 +25,9 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Country Wine](./recipes/country-wine.md)
 
 
+## Jars
+I prefer the [1.5L Cylinder Weck jar](https://www.flaschenland.de/Marmeladenglaeser-Einmachglaeser/Glaeser-nach-Typ/WECK-Glaeser/1575ml-WECK-Zylinderglas.html) for all of my fermentation because it releases CO2 when there is enough built up but keeps enough inside to prevent surface mold. Fido jars also work but the seal is tight enough that I worry about explosions. In all cases, round jars are preferred over square jars for pressure distribution reasons (again, to prevent explosions).
+
 
 ## Is it mold?
 
