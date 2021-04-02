@@ -48,4 +48,4 @@
 ### Variations
 
 * I've used Skyr culture to attempt to make cheese by following steps 1 & 2, adding an appropriate amount of rennet (roughly 1/8 tsp or .60 ml) mixed with 1/4 cup of water, mixing for 25 seconds, and letting sit out and culture at room temperature (with a lid) overnight. What results is a massive curd which can be cut, strained/pressed/shaped overnight, cut, salted, and added to an 8% brine to cure (can be up to months, but it can be eaten immediately). What has resulted is a Feta-looking block with a which softer consistency. I've taken a block of this not-really-Feta, mixed with minced onions, and served on potatoes or pasta.
-
+* Make butter by culturing cream instead of milk. Blitz in a blender until the solids separate from the liquid (buttermnilk). Save the buttermilk for baking. Wash the solids using ice cold water (blitz in blender with the cold water, massage buttermilk out, repeat 2-3 times). Shape into a log.
