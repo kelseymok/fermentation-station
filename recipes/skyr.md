@@ -7,6 +7,9 @@
 * Something that can hold a warm temperature
   * oven with the light on (it's hard to measure temperature regulation so the product might not turn out as expected)
   * dehydrator with temperature regulation
+  * Yogurt maker
+    * A friend bought [this one](https://www.amazon.de/dp/B06Y5XH57F) and it seems to work out just fine
+    * InstantPots have this setting
 * Jar for storing the resulting yogurt (anything less than .5L would work)
 
 ## Ingredients
