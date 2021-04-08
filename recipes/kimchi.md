@@ -9,15 +9,27 @@ The base recipe adopted from [Maangchi's Traditional Kimchi](https://www.maangch
 * [1.5L Jar](../README.md#jars)
 * Scale or measuring cups
 
+
+
+## Special Ingredients
+
+Kimchi does require a few special ingredients to be bought ahead of time (give it a 1.5 week lead time for shipping):
+
+* [Gochugaru](https://www.amazon.de/-/en/dp/B017GFSFEY)
+* [Glutinous Rice Flour](https://www.amazon.de/-/en/dp/B003U2Q0OK)
+* Unrefined sea salt **WITHOUT iodine/Jod**
+  * You can buy this at your standard supermarket. Simply wanted to highlight that this is different from your standard salt which contains iodine
+  * Iodine will inhibit the fermentation process
+
 ## Ingredients
 
 * 1 medium Napa Cabbage (Chinakohl, in Germany) ~ 750g
 
-* 75g (1/2) cup unrefined salt, <u>**without iodine**</u>. Sea Salt or Himalayan salt works.
+* 75g (1/2) cup [unrefined salt](#special-ingredients)
 
 * 240ml (1 cup) water
 
-* 1 tablespoons glutenous rice flour (or regular rice flour)
+* 1 tablespoons [glutinous rice flour](#special-ingredients) (or regular rice flour)
 
 * 1 tablespoon of sugar
 
@@ -35,7 +47,7 @@ The base recipe adopted from [Maangchi's Traditional Kimchi](https://www.maangch
 
 * 5 lengths of spring onions
 
-* 80g (3/4 cup) [Gochugaru](https://www.amazon.de/-/en/9144/dp/B017GFSFEY/ref=sr_1_5?crid=3MK97QTU8V407&dchild=1&keywords=gochugaru&qid=1615132346&sprefix=gochugaru%2Caps%2C219&sr=8-5) (to taste)
+* 80g (3/4 cup) [Gochugaru](#special-ingredients) (to taste)
 
   * Yes, this might be hard to find and there are recipes with "substitutes" out there, but I find that you can't replace the flavour of Gochugaru. Find it online or head to your local Korean supermarket. If you buy a large pack, store it in the freezer once you've opened it, as it's highly susceptible to mold via humidity, even if it's in a sealed bag.
 
