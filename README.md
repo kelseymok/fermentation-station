@@ -13,26 +13,28 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 
 ## Recipes
 
+
+
+* [Amazake](./recipes/amazake.md)
+* [[Oat] Amazake](./recipes/oat-amazake.md)
 * [Basic Lactofermented Pickles](./recipes/basic-lactofermented-pickles.md)
+* [Beet Kvass](./recipes/beet-kvass.md)
+* [Blueberry Mead](./recipes/blueberry-mead.md)
+* [Country Wine](./recipes/country-wine.md)
+* [Honey Garlic](./recipes/honey-garlic.md)
+* [Kimchi](./recipes/kimchi.md)
+* [Koji](./recipes/koj.mdi)
+* [Kombucha](./recipes/kombucha.md)
+* [Lactofermented Hot Sauce](./recipes/lactofermented-hot-sauce.md)
+* [Miso](./recipes/miso.md)
+* [Natto](./recipes/natto.md)
 * [Rye Sourdough Starter](./recipes/rye-sourdough-starter.md)
 * [Rye Sourdough Bread](./recipes/rye-sourdough.md)
-* [Kimchi](./recipes/kimchi.md)
-* [Sauerkraut](./recipes/sauerkraut)
-* [Honey Garlic](./recipes/honey-garlic.md)
-* [Kombucha](./recipes/kombucha.md)
-* [Blueberry Mead](./recipes/blueberry-mead.md)
-* [Koji](./recipes/koj.mdi)
 * [Sake](./recipes/sake.md)
-* [Miso](./recipes/miso.md)
-* [Amazake](./recipes/amazake.md)
-* [Oat Amazake](./recipes/oat-amazake.md)
+* [Sauerkraut](./recipes/sauerkraut)
 * [Shio-Koji](./recipes/shio-koji.md)
-* [Natto](./recipes/natto.md)
-* [Tempeh](./recipes/tempeh.md)
-* [Lactofermented Hot Sauce](./recipes/lactofermented-hot-sauce.md)
-* [Beet Kvass](./recipes/beet-kvass.md)
-* [Country Wine](./recipes/country-wine.md)
 * [Skyr](./recipes/skyr.md)
+* [Tempeh](./recipes/tempeh.md)
 
 
 

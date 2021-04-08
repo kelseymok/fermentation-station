@@ -4,7 +4,7 @@ This is adapted from Sandor Katz's The Art of Fermentation ("Country Wine")
 
 ### Materials
 
-* Fermentation container (I use a jar)
+* Fermentation container (I use a jar with a rubber gasket, like a Weck jar)
 
 ### Ingredients
 
@@ -31,8 +31,4 @@ This is adapted from Sandor Katz's The Art of Fermentation ("Country Wine")
 1. Dissolve sugar in room temperature water in the jar
 2. Add your fruits, herbs, etc.
 3. Drink when the liquid stops bubbling
-
-
-
-
 
