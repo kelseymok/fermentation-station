@@ -18,6 +18,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Amazake](./recipes/amazake.md)
 * [[Oat] Amazake](./recipes/oat-amazake.md)
 * [Basic Lactofermented Pickles](./recipes/basic-lactofermented-pickles.md)
+* [Basic Miso Paste](./recipes/basic-miso-paste.md)
 * [Beet Kvass](./recipes/beet-kvass.md)
 * [Blueberry Mead](./recipes/blueberry-mead.md)
 * [Country Wine](./recipes/country-wine.md)
