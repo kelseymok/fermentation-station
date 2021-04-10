@@ -23,13 +23,13 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 
 ## Ingredients
 
-* 1 medium Napa Cabbage (Chinakohl, in Germany) ~ 750g
+* 1 medium-large Napa Cabbage (Chinakohl, in Germany) ~ 1-1.5kg
 
-* 75g (1/2) cup [unrefined salt](#special-ingredients)
+* 75g (1/2 cup) [unrefined salt](#special-ingredients)
 
 * 240ml (1 cup) water
 
-* 1 tablespoons [glutinous rice flour](#special-ingredients) (or regular rice flour)
+* 1 tablespoon [glutinous rice flour](#special-ingredients) (or regular rice flour)
 
 * 1 tablespoon of sugar
 
@@ -37,7 +37,7 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 
 * 6 cloves of garlic
 
-* 1 teaspoon minced ginger
+* 1 teaspoon minced/grated ginger
 
 * 120ml (1/2 cup) soy sauce
 
@@ -76,7 +76,7 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 1. Rinse the cabbage under cool water. The cabbage should be  salty. Drain for about 20 minutes. It should be half the original size and floppy.
 2. Prepare the other vegetables by slicing the carrot and radish into matchsticks if you haven't done so already.
 3. Add minced onion, garlic, ginger, soy sauce, and Gochugaru to the cooled porridge to make a paste
-4. Add carrots, radish, and green onions
+4. Add carrots, radish, and sliced green onions
 5. Give cabbage a light squeeze to remove excess water and add to vegetable mixture
 6. Let sit at room temperature for 2-3 days. It will become sour.
 7. After about 3 days (or when preferred sourness is reached), store in the fridge (it will continue to ferment)
@@ -96,6 +96,7 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 * [Kimchi Stew](https://www.maangchi.com/recipe/kimchi-jjigae)
 * [Kimchi Soup](https://www.maangchi.com/recipe/kimchi-guk)
 * [Kimchi Pancake](https://www.maangchi.com/recipe/kimchijeon)
+* Kimchi Omelette
 * Serve with [Bibimbap](https://www.maangchi.com/recipe/bibimbap)
 * On sourdough bread, on sandwiches
 * Pickle lightly steamed fish in it
