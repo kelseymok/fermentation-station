@@ -4,7 +4,7 @@ We'll be following [my Kimchi recipe](../recipes/kimchi.md).
 
 * [Prepare for the workshop](#before-the-workshop)
 
-## Before the Workshop
+## Prepare for the workshop
 
 ### Purchase Special Ingredients/Materials
 
