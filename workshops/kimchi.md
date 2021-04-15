@@ -2,7 +2,7 @@
 
 We'll be following [my Kimchi recipe](../recipes/kimchi.md). 
 
-* [Prepare for the workshop](#before-the-workshop)
+* [Prepare for the workshop](#prepare-for-the-workshop)
 
 ## Prepare for the workshop
 
