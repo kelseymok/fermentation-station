@@ -34,6 +34,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Rye Sourdough Bread](./recipes/rye-sourdough.md)
 * [Sake](./recipes/sake.md)
 * [Sauerkraut](./recipes/sauerkraut)
+* [Seitan (Fermented)](./recipes/fermented-seitan.md)
 * [Shio-Koji](./recipes/shio-koji.md)
 * [Skyr](./recipes/skyr.md)
 * [Tempeh](./recipes/tempeh.md)
