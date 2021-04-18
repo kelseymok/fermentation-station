@@ -30,6 +30,39 @@ This is required as we will require yeast to multiply (to allow fermentation to 
 ### Ingredients
 
 * Shubo (from the above recipe)
-* ? rice
-* ? Koji
+* 380g rice
+* 160 Koji
+* 500ml water
+
+
+
+Leave in cold place
+
+Stir every 10-12 hours
+
+
+
+
+
+Day 3
+
+Then 750g rice
+
+160g Koji
+
+1.5L of water
+
+
+
+
+
+Day 5
+
+1140 g  steamed rice
+
+2 L water
+
+380g koji
+
+store in cold place, stir daily, 2-3 weeks
 
