@@ -18,7 +18,7 @@ Base recipe is from [EmmyMade](https://www.emmymade.com/how-to-make-chicken-from
 | Onion Powder    | 1/4 tsp     | 3/4 tsp      |
 | Soy Sauce       | 1/2 tsp     | 1.5 tsp      |
 | Oil             | 1 tbsp      | 3 tbsp       |
-| Vegetable Stock | 120 ml      | 360 ml       |
+| Vegetable Stock/Miso soup | 120 ml      | 360 ml       |
 
 
 
