@@ -23,6 +23,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Blueberry Mead](./recipes/blueberry-mead.md)
 * [Country Wine](./recipes/country-wine.md)
 * [Honey Garlic](./recipes/honey-garlic.md)
+* [Indian Pickle](./recipes/indian-pickle.md)
 * [Kimchi](./recipes/kimchi.md)
 * [Koji](./recipes/koj.mdi)
 * [Kombucha](./recipes/kombucha.md)
