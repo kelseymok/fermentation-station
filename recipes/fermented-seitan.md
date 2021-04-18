@@ -26,7 +26,7 @@ Base recipe is from [EmmyMade](https://www.emmymade.com/how-to-make-chicken-from
 
 1. In a large bowl, combine the flour and water to form a soft dough.
 2. Cover the bowl and let rest for minimum 1 hour
-3. In a bowl of room temperature water, knead the dough. Drain the water and repeat 6-7 times until almost clear.
+3. In a bowl of room temperature water, knead the dough. Drain the water and repeat 6-7 times until almost clear. NOTE: keep the water if you want to [reuse the starch for something else](#what-to-do-with-leftover-wheat-starch).
 4. Let dough drain in strainer.
 5. Add salt, black pepper, garlic powder, onion powder, paprika, and cayenne and squeeze to incorporate. 
 6. Add a spoon of sourdough starter and/or saurkraut juice. Knead.
@@ -37,3 +37,10 @@ Base recipe is from [EmmyMade](https://www.emmymade.com/how-to-make-chicken-from
 11. Allow to cool.
 12. **Optional:** marinate in something like BBQ sauce and put in the oven at 180C for about 30 minutes (until the sauce is caramelised)
 
+
+
+## Notes
+
+### What to do with leftover wheat starch
+
+* [Make Liangpi noodles](https://thewoksoflife.com/liangpi-noodles/)
