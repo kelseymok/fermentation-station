@@ -8,8 +8,8 @@ Base recipe is from [EmmyMade](https://www.emmymade.com/how-to-make-chicken-from
 
 |                 | Small Batch | Large Batch  |
 | --------------- | ----------- | ------------ |
-| Flour           | 375g        | 1000kg       |
-| Water           | 300ml       | 800ml        |
+| Flour           | 375g        | 1000g        |
+| Water           | 300ml       | 600ml        |
 | Salt            | 1/2 tsp     | 1.5 tsp      |
 | Black Pepper    | 1/4 tsp     | 3/4 tsp      |
 | Paprika         | 1/2 tsp     | 1.5 tsp      |
