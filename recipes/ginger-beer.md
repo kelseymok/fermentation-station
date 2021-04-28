@@ -1,5 +1,5 @@
 # Ginger Beer
-
+Fancy your own Moscow Mule?
 
 
 ## Ginger Beer Starter
@@ -10,7 +10,7 @@
 
 ### Ingredients
 
-* 5cm/20g or more of bio/organic ginger root
+* 5cm/20g or more of bio/organic ginger root (IMPORTANT that it is bio/organic as the conventional ginger is irradiated, removing the beneficial bacteria that we want)
 * 60g of sugar
 * (optional) a couple of tablespoons of ginger bug starter from previous batch
 
@@ -24,7 +24,7 @@
 
 
 
-## Ginger Beer
+## Ginger Beer Brew
 
 ### Materials
 
