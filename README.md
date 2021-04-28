@@ -22,6 +22,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Beet Kvass](./recipes/beet-kvass.md)
 * [Blueberry Mead](./recipes/blueberry-mead.md)
 * [Country Wine](./recipes/country-wine.md)
+* [Ginger Beer](./recipes/ginger-beer.md)
 * [Honey Garlic](./recipes/honey-garlic.md)
 * [Indian Pickle](./recipes/indian-pickle.md)
 * [Kimchi](./recipes/kimchi.md)
