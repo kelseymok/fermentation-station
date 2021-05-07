@@ -46,7 +46,7 @@ Fancy your own Moscow Mule?
 1. The day before the brew, add 1 tsp sugar to the starter to get it bubbly
 2. Grate the ginger
 3. Boil 1/2 of the water, add 1/2 of the grated ginger. Simmer for 30 minutes.
-4. Add sugar and stir to dissolve
+4. Add sugar and stir to dissolve. Add lemon juice.
 5. Add the remaining 1/2 of the water (cold).
 6. Pour water-ginger-sugar mixture in jar.
 7. When water-ginger-sugar mixture is room temperature, add the ginger bug, remaining ginger
