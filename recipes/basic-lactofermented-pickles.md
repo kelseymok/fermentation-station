@@ -47,8 +47,7 @@ Certain types of salt can inhibit fermentation, for example: salt with iodine. M
 * Cucumbers with hot pepper flakes
 * Cucumbers with dill, mustard seeds, and garlic 
 * Green string beans with dill mustard seeds, and garlic
-* Sliced purple/red onion
+* Sliced purple/red onion (as a condiment on anything)
 * White asparagus (unpeeled) with a couple slices of lemon
 * Cauliflower, paprika (sweet peppers), carrots
 * Basically any vegetable scraps at any given time
-* Jalepeños, Kiwifuit, garlic, sweet green pepper (brine = 4-5% salt)
