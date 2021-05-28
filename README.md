@@ -85,7 +85,7 @@ Sometimes it's Kahm's Yeast (and that's fine to eat). Sometimes your ferments ge
 
 
 ## Fermentation Chamber
-This is inspired by the Fermentation Chamber documented in "Noma's Guide to Fermentation"
+I built a temperature controlled box to help with many of my projects. This is inspired by the Fermentation Chamber documented in "Noma's Guide to Fermentation".
 * [Styrofoam Box](https://www.amazon.de/gp/product/B0881ZJ27K/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1)
 * [Heating Mat](https://www.amazon.de/gp/product/B001B93ZPG/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 * [Elevated Grid above Heating Mat](https://www.amazon.de/gp/product/B01HBHD5Q0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
