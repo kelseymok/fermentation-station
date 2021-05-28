@@ -84,6 +84,12 @@ Check out the [/r/fermentation](https://www.reddit.com/r/fermentation/search?q=i
 Sometimes it's Kahm's Yeast (and that's fine to eat). Sometimes your ferments get cloudy because of all of the yeast in your ferment (also ok to eat).
 
 
+## Fermentation Chamber
+This is inspired by the Fermentation Chamber documented in "Noma's Guide to Fermentation"
+* [Styrofoam Box](https://www.amazon.de/gp/product/B0881ZJ27K/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1)
+* [Heating Mat](https://www.amazon.de/gp/product/B001B93ZPG/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+* [Elevated Grid above Heating Mat](https://www.amazon.de/gp/product/B01HBHD5Q0/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+* [Heat Regulator](https://www.amazon.de/gp/product/B016EYB03G/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
 ## General Fermentation References
 
