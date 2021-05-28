@@ -9,6 +9,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
   * [How many?](#how-many-should-i-buy)
   * [What size?](#what-size)
 * [Is it mold?](#is-it-mold)
+* [Build a Fermentation Chamber](#fermentation-chamber)
 * [General Fermentation References](#general-fermentation-references)
 
 ## Recipes
