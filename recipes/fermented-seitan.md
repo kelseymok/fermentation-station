@@ -43,4 +43,6 @@ Base recipe is from [EmmyMade](https://www.emmymade.com/how-to-make-chicken-from
 
 ### What to do with leftover wheat starch
 
-* [Make Liangpi noodles](https://thewoksoflife.com/liangpi-noodles/)
+* [Make Liangpi noodles](https://thewoksoflife.com/liangpi-noodles/) (I failed terribly with this)
+* Dehydrate it (currently attempting to do this at 45C because it gelatinizes at 55C)
+* [Crystal Dumpling Wrappers](https://thewoksoflife.com/steamed-crystal-dumplings/)
