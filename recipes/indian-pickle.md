@@ -13,7 +13,7 @@
 * 1 tablespoon paprika powder*
 * 14g salt (2% * 700g cubed fruit/veg pieces)
 * 4 garlic cloves (crushed)
-* 3 tablespoon oil
+* 3 tablespoons sunflower oil
 
 
 
