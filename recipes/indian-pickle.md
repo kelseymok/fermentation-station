@@ -16,7 +16,7 @@ Traditionally, this pickle is made as a sun pickle in India, requiring quite som
 * 1/2 teaspoon methi/fenugreek seeds
 * 2 tablespoons red chili powder* (or Cayenne)
 * 1 tablespoon paprika powder*
-* 14g salt (2% * 700g cubed fruit/veg pieces)
+* 14g salt (calculation: 2% * 700g cubed fruit/veg pieces)
 * 4 garlic cloves (crushed/minced)
 * 3 tablespoons sunflower oil
 
@@ -24,7 +24,7 @@ Traditionally, this pickle is made as a sun pickle in India, requiring quite som
 
 ### NOTE 
 
-\* 2 tablespoons of red chili powder + 1 tablespoon of paprika powder results in a spicy but tolerable heat. If you want in-your-face spicy, use 3 tablespoons of red chili powder and 0 tablespoons of paprika powder
+\* 2 tablespoons of red chili powder + 1 tablespoon of paprika powder results in a spicy but tolerable heat. If you want in-your-face spicy, use 3 tablespoons of red chili powder and 0 tablespoons of paprika powder. If you don't like spice, you can try Kashmiri Red Chili Powder.
 
 Some of these ingredients are hard to find. I'd recommend going to your local Indian supermarket. Else, try [Jamoona](https://www.jamoona.com/).
 
