@@ -4,7 +4,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 
 * [Recipes](#recipes)
 * [I do workshops](#workshops)
-* [An opinion about jars](#jars)
+* [An opinion about jars](#an-opinion-about-jars)
   * [Weck](#weck)
   * [How many?](#how-many-should-i-buy)
   * [What size?](#what-size)
