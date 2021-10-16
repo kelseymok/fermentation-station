@@ -55,11 +55,11 @@ I do [remote] workshops.
 
 ## An Opinion About Jars
 
-Your fermentation vessel is something you should have an opinion about. I prefer the [1.5L Cylinder Weck jar](https://www.glaeserundflaschen.de/WECK-Zylinderglas-1590-ml--5178.html) for all of my fermentation because it releases CO2 when there is enough built up but keeps enough inside to prevent surface mold. Fido jars also work but the seal is tight enough that I worry about explosions. In all cases, round jars are preferred over square jars for pressure distribution reasons (again, to prevent explosions). The main problem is that large jars are hard to come by. For convenience, [this square Fido jar](https://www.amazon.de/-/en/dp/B00166QRN6) has worked well for participants in my workshops (just burp often to reduce explosions). When transporting ferments, the Fido jars seem to leak less than the Weck jars when tipped.
+Your fermentation vessel is something you should have an opinion about. I prefer the [1.0L Cylinder Weck Jar](https://www.glaeserundflaschen.de/WECK-Zylinderglas-1040-ml--5606.html) for all of my fermentation because it releases CO2 when there is enough built up but keeps enough inside to prevent surface mold. Fido jars also work but the seal is tight enough that I worry about explosions. In all cases, round jars are preferred over square jars for pressure distribution reasons (again, to prevent explosions). The main problem is that large jars are hard to come by. For convenience, [this square Fido jar](https://www.amazon.de/-/en/dp/B00166QRN6) has worked well for participants in my workshops (just burp often to reduce explosions).
 
 ### Weck
 
-My preferred jar is the [1.5L Cylinder Weck Jar](https://www.glaeserundflaschen.de/WECK-Zylinderglas-1590-ml--5178.html). Don't forget to purchase the Jar Lid, rubber gasket, and clamps (all on the same page). **UPDATE [8/4/21]: apparently this jar is out of stock [here](https://www.glaeserundflaschen.de/WECK-Zylinderglas-1590-ml--5178.html) and the Weck website and I am not sure if it will come back in stock. I am incredibly sad.** The [1.0L Cylinder Weck Jar](https://www.glaeserundflaschen.de/WECK-Zylinderglas-1040-ml--5606.html) also works (don't forget the lid, gasket, and clamps!).
+My preferred jar is the [1.0L Cylinder Weck Jar](https://www.glaeserundflaschen.de/WECK-Zylinderglas-1040-ml--5606.html). Don't forget to purchase the Jar Lid, rubber gasket, and clamps (all on the same page). 
 
 
 
@@ -71,7 +71,7 @@ You'll only need one! However, most friends and particpants in workshops get bit
 
 ### What size?
 
-For my normal ferments (veg pickles, sauerkraut, kimchi), I prefer the 1.5L size because there is generally enough headspace for fermentation bubbles. Without the headspace, I've needed to put a place under my jar to catch any spillover. There are other ferments which require much less space, for example, small batches of hot sauce, miso, or soda experiments; in this case, use an appropriately-sized jar that allows for some headspace but not too much.
+For my normal ferments (veg pickles, sauerkraut, kimchi), I prefer the 1L size because there is generally enough headspace for fermentation bubbles. Without the headspace, I've needed to put a place under my jar to catch any spillover. There are other ferments which require much less space, for example, small batches of hot sauce, miso, or soda experiments; in this case, use an appropriately-sized jar that allows for some headspace but not too much.
 
 
 
