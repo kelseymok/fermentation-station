@@ -14,10 +14,10 @@ Traditionally, this pickle is made as a sun pickle in India, requiring quite som
 * 1/4 teaspoon ground turmeric
 * 1/4 teaspoon black Nigella seeds (optional)
 * 1/2 teaspoon methi/fenugreek seeds
-* 2 tablespoons red chili powder* 
+* 2 tablespoons red chili powder* (or Cayenne)
 * 1 tablespoon paprika powder*
 * 14g salt (2% * 700g cubed fruit/veg pieces)
-* 4 garlic cloves (crushed)
+* 4 garlic cloves (crushed/minced)
 * 3 tablespoons sunflower oil
 
 
