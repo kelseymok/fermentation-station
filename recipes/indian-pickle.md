@@ -29,12 +29,15 @@ Some of these ingredients are hard to find. I'd recommend going to your local In
 
 ## Instructions
 
-1. Wash and dry your fruit-veg pieces. 
-3. Dry roast methi/fenugreek seeds, nigella seelds, and mustard seeds in a small pan on a low flame until deep golden and aromatic. Transfer to a plate and allow to cool.
-4. Grind/blend fenugreek, mustard, nigella seeds  into a powder.
+1. Clean your jars (make sure there's no soap residue). Sterilise by boiling water and pouring into the jar; similarly sterilise the lid by placing the lid in a bowl and pouring boiling water over it. Let rest for a few minutes.
+3. Dry roast methi/fenugreek seeds, nigella seelds, and mustard seeds in a small pan on low heat until deep golden and aromatic.
+4. Grind/blend fenugreek, mustard, nigella seeds  into a powder (e.g. with a mortar/pestle). 
 6. Chop fruit/veg into small cubes with 1cm edges.
 7. Add chili powder, methi/fenugreek/nigella/mustard powder, salt, and garlic to a bowl. Mix well.
 8. Add oil. Mix again.
+9. Add mixture to jar and cover with lid.
+10. Ferment at room temperature, away from direct sunlight for 2 weeks. During the two weeks, stir the mixture daily with a clean spoon - this prevents yeast/mold from blooming on the surface until the fermentation creates a lower pH that prevents this type of bloom. If a small yeast/mold bloom does occur, simply remove it (+1 cm deep) and with a clean spoon, give it a stir. This is sometimes normal for wild fermentation.
+11. Store in the fridge or a cool cellar.
 
 
 
