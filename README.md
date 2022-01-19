@@ -27,7 +27,7 @@ This is a completely unpolished list of opinionated fermentation recipes that fr
 * [Honey Garlic](./recipes/honey-garlic.md)
 * [Indian Pickle](./recipes/indian-pickle.md)
 * [Kimchi](./recipes/kimchi.md)
-* [Koji](./recipes/koj.mdi)
+* [Koji](./recipes/koji.md)
 * [Kombucha](./recipes/kombucha.md)
 * [Lactofermented Hot Sauce](./recipes/lactofermented-hot-sauce.md)
 * [Miso](./recipes/miso.md)
