@@ -22,9 +22,9 @@
 ## Instructions
 
 1. In a large saucepan at medium heat while occasionally stirring, bring the milk up to 90C and hold at this temperature for 10 minutes. This kills existing bacteria that would be fighting for dominance with the Skyr bacteria. My lazy method = bring up to 90C, remove from heat, and put the lid on for about 10 minutes.
-2. Remove from heat and let cool to 40-46C (takes about an hour). I recommend taking the lid off and stirring occasionally to help dissipate heat. There might be a film that forms on the surface; just mix it back in. 
+2. Remove from heat and let cool to 40-46C (takes about an hour per liter). I recommend taking the lid off and stirring occasionally to help dissipate heat. There might be a film that forms on the surface; just mix it back in. 
 3. Add Skyr starter. Mix thoroughly. Put lid on pot.
-4. Move pot to incubation chamber(e.g. fermentation chamber, oven with light on, dehydrator) and hold somewhere between 40-46C (42C works well for me) for 8-10 hours.
+4. Move pot to incubation chamber (e.g. fermentation chamber, oven with light on, dehydrator) and hold somewhere between 40-46C (42C works well for me) for 8-10 hours.
 5. After 8-10 hours, there should be some whey separation (this is normal). If not, leave in incubation chamber for 1 hour increments. Strain using a tea towel or cheese cloth until the [desired consistency](#desired-consistency) has been reached. [Save the whey for other experiments](#whey-usages).
 
 
