@@ -43,7 +43,7 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 
 * 1 carrot
 
-* 1 small white radish (daikon) or 1 Kohlrabi 
+* 1 small white radish (daikon) or 1 Kohlrabi or 1 small Bierrettich (Germany)
 
 * 5 lengths of spring onions
 
