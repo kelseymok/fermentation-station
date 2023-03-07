@@ -41,6 +41,8 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 
 * 120ml (1/2 cup) soy sauce
 
+* 1 small pear (peeled and diced)
+
 * 1 carrot
 
 * 1 small white radish (daikon) or 1 Kohlrabi or 1 small Bierrettich (Germany)
@@ -75,11 +77,11 @@ Kimchi does require a few special ingredients to be bought ahead of time (give i
 
 1. Rinse the cabbage under cool water. The cabbage should be  salty. Drain for about 20 minutes. It should be half the original size and floppy.
 2. Prepare the other vegetables by slicing the carrot and radish into matchsticks if you haven't done so already.
-3. Add minced onion, garlic, ginger, soy sauce, and Gochugaru to the cooled porridge to make a paste
-4. Add carrots, radish, and sliced green onions
+3. Add minced onion, garlic, ginger, soy sauce, pear, and Gochugaru to the cooled porridge to make a paste. Blitz this in a blender or using an immersion blender to make a smooth paste.
+4. Add carrots, radish, and sliced green onions and mix well.
 5. Give cabbage a light squeeze to remove excess water and add to vegetable mixture
-6. Let sit at room temperature for 2-3 days. It will become sour.
-7. After about 3 days (or when preferred sourness is reached), store in the fridge (it will continue to ferment)
+6. Let sit at room temperature for 3-4 days. It will become sour. It's ready when there are quite a few air bubbles everywhere.
+7. After about 3-4 days (or when preferred sourness is reached), store in the fridge (it will continue to ferment)
 
 
 
